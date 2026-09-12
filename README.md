@@ -4,7 +4,7 @@
 
   <p>
     <strong>Xổ Số Kiến Thiết Miền Bắc</strong> tại
-    <a href="https://xosokienthietmienbac.com/" target="_blank">
+    <a rel="dofollow" href="https://xosokienthietmienbac.com/" target="_blank">
       XoSoKienThietMienBac.com
     </a>
     là website hỗ trợ tra cứu kết quả xổ số ba miền, trong đó
@@ -16,7 +16,7 @@
 
   <p>
     Truy cập website:
-    <a href="https://xosokienthietmienbac.com/" target="_blank">
+    <a rel="dofollow" href="https://xosokienthietmienbac.com/" target="_blank">
       https://xosokienthietmienbac.com/
     </a>
   </p>
@@ -24,7 +24,7 @@
   <h2>XSMB - Kết Quả Xổ Số Kiến Thiết Miền Bắc</h2>
 
   <p>
-    <a href="https://xosokienthietmienbac.com/" target="_blank">
+    <a rel="dofollow" href="https://xosokienthietmienbac.com/" target="_blank">
       <strong>XSMB</strong>
     </a>
     được cập nhật với đầy đủ các giải từ giải đặc biệt đến giải bảy,
